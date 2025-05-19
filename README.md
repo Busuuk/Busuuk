@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Simone and i'm a technology enthusiast with a strong curiosity for software development and innovation. I attended the Apple Developer Academy, where I gained hands-on experience in Swift, Xcode, UX/UI design, and iOS app development, as well as working in teams using Scrum methodologies. I consider myself a proactive person, skilled at teamwork, and I put all my effort into achieving goals with determination.
+I'm Simone and i'm a technology enthusiast with a strong curiosity for software development and innovation. I attended the Apple Developer Academy, where I gained hands-on experience in Swift, Xcode, UX/UI design, and iOS app development, as well as working in teams using Scrum/Agile methodologies. I consider myself a proactive person, skilled at teamwork, and I put all my effort into achieving goals with determination.
 
 
 # 💻 Tech Stack:
